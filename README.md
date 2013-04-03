@@ -3,7 +3,7 @@ Unicorn-Dream
 
 A general purpose flash memory data logger.
 
-Sensors
+Built-in Sensors
 -------
 
 - MMA745xL: 3-Axis Digital Output Acceleration Sensor
