@@ -22,3 +22,4 @@ Microcontroller
 Additional
 ----------
 
+- CR2032: 3V ~200mAh Lithium Solder Tab Battery for RTC
