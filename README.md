@@ -12,6 +12,7 @@ Peripherals
 - HY27UF(08/16)4G2B: 4Gbit (512Mx8bit) NAND Flash
 - FT230X: USB to basic UART
 - MCP4725: 12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6
+- MCP3221: Low Power 12-Bit A/D Converter With I2C Interface in SOT-23-5
 
 Microcontroller
 ----------------
