@@ -8,7 +8,6 @@ Peripherals
 
 - MMA745xL: 3-Axis Digital Output Acceleration Sensor
 - MCP9808: +/-0.5°C Maximum Accuracy Digital Temperature Sensor
-- MPXx6400: 20 to 400 kPa Integrated Silicon Pressure Sensor, Temperature Compensated and Calibrated
 - FT230X: USB to basic UART
 - MCP4725: 12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6
 - MCP3221: Low Power 12-Bit A/D Converter With I2C Interface in SOT-23-5
