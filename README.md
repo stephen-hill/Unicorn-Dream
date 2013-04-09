@@ -11,7 +11,7 @@ Peripherals
 - FT230X: USB to basic UART
 - MCP4725: 12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6
 - MCP3221: Low Power 12-Bit A/D Converter With I2C Interface in SOT-23-5
-- M25PX16: 16-Mbit, dual I/O, 4-Kbyte subsector erase, serial Flash memory with 75 MHz SPI bus interface
+- S34ML02G1: 2Gbit, 3.3V, ONFI 1.0 Flash Memory in TSOP-48
 - MCP7940M: Low-Cost I2C Real-Time Clock/Calendar with SRAM
 
 Microcontroller
