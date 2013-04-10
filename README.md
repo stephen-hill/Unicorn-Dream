@@ -9,8 +9,8 @@ Peripherals
 - MMA745xL: 3-Axis Digital Output Acceleration Sensor
 - MCP9808: +/-0.5°C Maximum Accuracy Digital Temperature Sensor
 - FT230X: USB to basic UART
-- MCP4725: 12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6
-- MCP3221: Low Power 12-Bit A/D Converter With I2C Interface in SOT-23-5
+- MCP4725: 12-Bit Digital-to-Analog Converter with EEPROM Memory in a 6 lead SOT-23
+- ADCS7476: 12bit, 1MSPS, ADC in a 6 lead SOT-23
 - S34ML02G1: 2Gbit, 3.3V, ONFI 1.0 Flash Memory in TSOP-48
 - MCP7940M: Low-Cost I2C Real-Time Clock/Calendar with SRAM
 
