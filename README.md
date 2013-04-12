@@ -23,3 +23,4 @@ Additional
 ----------
 
 - CR2032: 3V ~200mAh Lithium Solder Tab Battery for RTC
+- http://uk.farnell.com/eve/er142503fp/battery-lithium-3-6v-1-2aa-pcb/dp/1973576
