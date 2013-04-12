@@ -17,7 +17,7 @@ Peripherals
 Microcontroller
 ----------------
 
-- PIC18F45K22: 28/40/44-Pin, Low-Power, High-Performance Microcontroller with XLP Technology
+- PIC18(L)F45K22: 28/40/44-Pin, Low-Power, High-Performance Microcontroller with XLP Technology
 
 Additional
 ----------
