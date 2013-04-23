@@ -13,6 +13,7 @@ Peripherals
 - ADCS7476: 12bit, 1MSPS, ADC in a 6 lead SOT-23
 - S34ML02G1: 2Gbit, 3.3V, ONFI 1.0 Flash Memory in TSOP-48
 - MCP7940M: Low-Cost I2C Real-Time Clock/Calendar with SRAM
+  http://uk.farnell.com/abracon/abs25-32-768khz-1-t/crystal-32-768khz-12-5pf-smd/dp/2308714
 
 Microcontroller
 ----------------
